@@ -4,7 +4,7 @@ repo: upptime-pirot # The name of this repository
 
 sites:
   - name: Pirot
-    url: https://pirot.io
+    url: https://pirot.io/management/health
 
 status-website:
   baseUrl: /repo # where "repo" is your repository name
