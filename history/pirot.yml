@@ -1,7 +1,7 @@
 url: https://pirot.io/management/health
-status: up
-code: 200
-responseTime: 391
-lastUpdated: 2024-01-02T23:02:03.168Z
+status: down
+code: 502
+responseTime: 806
+lastUpdated: 2024-01-03T16:01:47.640Z
 startTime: 2023-08-08T07:49:16.000Z
 generator: Upptime <https://github.com/upptime/upptime>
